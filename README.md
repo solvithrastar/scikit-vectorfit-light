@@ -15,4 +15,4 @@ flexible and scalable.
 
 ## License
 
-scikit-rf is permissively licensed under a [3-clause BSD license](LICENSE.txt).
+scikit-rf is permissively licensed under a [3-clause BSD license](LICENSE).
